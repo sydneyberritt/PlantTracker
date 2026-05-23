@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">PlantTracker</string>
+    <string name="apikey">sk-lk6b69c823c34860815902</string>
+    
+    <!-- Login Screen -->
+    <string name="login_title">Rastreador de Plantas</string>
+    <string name="welcome_back">¡Bienvenido de nuevo!</string>
+    <string name="email_label">Correo electrónico</string>
+    <string name="password_label">Contraseña</string>
+    <string name="remember_login">Recordar sesión</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="no_account_signup">¿No tienes cuenta? Regístrate</string>
+    <string name="login_failed">Error al iniciar sesión</string>
+    
+    <!-- Sign Up Screen -->
+    <string name="signup_title">Registrarse</string>
+    <string name="signup_subtitle">Empieza a rastrear tu familia de plantas hoy</string>
+    <string name="confirm_password_label">Confirmar contraseña</string>
+    <string name="create_account_button">Crear cuenta</string>
+    <string name="already_have_account">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="passwords_do_not_match">Las contraseñas no coinciden</string>
+    <string name="registration_failed">Error al registrarse</string>
+    
+    <!-- Home Screen -->
+    <string name="home_title">Inicio</string>
+    <string name="your_plants">Tus Plantas</string>
+    <string name="add_new_plant">Agregar Nueva Planta</string>
+    <string name="plant_family_empty">Tu familia de plantas está vacía.</string>
+    <string name="start_adding_plant">¡Comienza agregando tu primera planta!</string>
+    <string name="watered_today">Regada hoy</string>
+    <string name="water_today">Regar hoy</string>
+    <string name="water_tomorrow">Regar mañana</string>
+    <string name="water_in_days">Regar en %1$d días</string>
+    <string name="overdue_by_days">Atraso de %1$d días</string>
+    <string name="no_schedule_set">Sin horario establecido</string>
+    <string name="connection_failed">Conexión fallida</string>
+    <string name="water_plant_dialog_title">¿Planta de tratamiento de agua?</string>
+    <string name="water_plant_dialog_text">Confirma que regaste %1$s hoy.</string>
+    <string name="confirm">Confirma</string>
+    <string name="cancel">Cancelar</string>
+    <string name="watering_overdue">Riego pendiente</string>
+    <string name="my_plant_family">Mi familia de plantas</string>
+    
+    <!-- Search & Trending -->
+    <string name="search_title">Encuentra Tu Próxima Planta</string>
+    <string name="trending_title">Tendencias Ahora</string>
+    <string name="most_loved_plants">Plantas más queridas en la comunidad</string>
+    <string name="search_by_name">Buscar por nombre...</string>
+    <string name="search_button">Buscar</string>
+    <string name="search_results">Resultados de búsqueda</string>
+    <string name="no_plants_added_yet">¡Aún no se han agregado plantas!</string>
+    <string name="added_by_families">Agregada por %1$d familias</string>
+    
+    <!-- Plant Details -->
+    <string name="quick_care">Cuidado Rápido</string>
+    <string name="about_this_plant">Sobre esta planta</string>
+    <string name="add_to_family_button">Agregar Planta a la Familia</string>
+    <string name="light_meter">Medidor de Luz</string>
+    <string name="check_light_spot">Comprueba si este lugar es lo suficientemente brillante</string>
+    <string name="intensity_lux">Intensidad: %1$d Lux</string>
+    <string name="low_light">Luz Baja</string>
+    <string name="medium_light">Luz Media</string>
+    <string name="bright_light">Luz Directa Brillante</string>
+    <string name="maintenance">Mantenimiento</string>
+    <string name="watering">Riego</string>
+    <string name="sunlight">Luz de Sol</string>
+    <string name="toxic">Tóxico</string>
+    <string name="check">Controlar</string>
+    <string name="stop">Detener</string>
+    <string name="light_meter_msg_1">Coloca tu teléfono cerca de tu planta y toca comprobar</string>
+    <string name="light_meter_msg_2">Este dispositivo no admite la detección de luz.</string>
+    <string name="light_meter_msg_3">Midiendo la luz … acerca tu teléfono a tu planta.</string>
+</resources>

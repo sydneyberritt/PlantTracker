@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">PlantTracker</string>
+    <string name="apikey">sk-lk6b69c823c34860815902</string>
+    
+    <!-- Login Screen -->
+    <string name="login_title">Plant Tracker</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="email_label">Email Address</string>
+    <string name="password_label">Password</string>
+    <string name="remember_login">Remember Login</string>
+    <string name="login_button">Login</string>
+    <string name="no_account_signup">Don\'t have an account? Sign Up</string>
+    <string name="login_failed">Login failed</string>
+    
+    <!-- Sign Up Screen -->
+    <string name="signup_title">Sign Up</string>
+    <string name="signup_subtitle">Start tracking your plant family today</string>
+    <string name="confirm_password_label">Confirm Password</string>
+    <string name="create_account_button">Create Account</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="passwords_do_not_match">Passwords do not match</string>
+    <string name="registration_failed">Registration failed</string>
+    
+    <!-- Home Screen -->
+    <string name="your_plants">Your Plants</string>
+    <string name="home_title">Home</string>
+    <string name="my_plant_family">My Plant Family</string>
+    <string name="add_new_plant">Add New Plant</string>
+    <string name="plant_family_empty">Your plant family is empty.</string>
+    <string name="start_adding_plant">Start by adding your first plant!</string>
+    <string name="watered_today">Watered today</string>
+    <string name="water_today">Water today</string>
+    <string name="water_tomorrow">Water tomorrow</string>
+    <string name="water_in_days">Water in %1$d days</string>
+    <string name="overdue_by_days">Overdue by %1$d days</string>
+    <string name="no_schedule_set">No schedule set</string>
+    <string name="connection_failed">Connection failed</string>
+    <string name="water_plant_dialog_title">Water Plant?</string>
+    <string name="water_plant_dialog_text">Confirm that you watered %1$s today.</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="watering_overdue">Watering Overdue</string>
+    
+    <!-- Search & Trending -->
+    <string name="search_title">Find Your Next Plant</string>
+    <string name="trending_title">Trending Now</string>
+    <string name="most_loved_plants">Most loved plants in the community</string>
+    <string name="search_by_name">Search by name...</string>
+    <string name="search_button">Search</string>
+    <string name="search_results">Search Results</string>
+    <string name="no_plants_added_yet">No plants have been added yet!</string>
+    <string name="added_by_families">Added by %1$d families</string>
+    
+    <!-- Plant Details -->
+    <string name="quick_care">Quick Care</string>
+    <string name="maintenance">Maintenance</string>
+    <string name="watering">Watering</string>
+    <string name="sunlight">Sunlight</string>
+    <string name="toxic">Toxic</string>
+    <string name="about_this_plant">About this plant</string>
+    <string name="add_to_family_button">Add Plant to Family</string>
+    <string name="light_meter">Light Meter</string>
+    <string name="check_light_spot">Check if this spot is bright enough</string>
+    <string name="intensity_lux">Intensity: %1$d Lux</string>
+    <string name="low_light">Low Light</string>
+    <string name="medium_light">Medium Light</string>
+    <string name="bright_light">Bright Direct Light</string>
+    <string name="check">Check</string>
+    <string name="stop">Stop</string>
+    <string name="light_meter_msg_1">Place your phone near your plant and tap measure</string>
+    <string name="light_meter_msg_2">This device doesn’t support light sensing</string>
+    <string name="light_meter_msg_3">Measuring light … hold your phone near your plant</string>
+</resources>
