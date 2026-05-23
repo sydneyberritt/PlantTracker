@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name = "PlantAPIKey" translatable="false">
+    sk-lk6b69c823c34860815902
+    </string>
 </resources>

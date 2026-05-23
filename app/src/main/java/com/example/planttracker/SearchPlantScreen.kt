@@ -43,7 +43,7 @@ fun SearchPlantScreen(onPlantSelection: () -> Unit) {
     val plantManager = remember { PlantManager() }
     var plantList by remember { mutableStateOf<List<Plant>>(emptyList()) }
     var isLoading by remember { mutableStateOf(false) }
-    val apiKey = stringResource(R.string.apikey)
+    val apiKey = stringResource(R.string.PlantAPIKey)
 
     Scaffold() { innerPadding ->
         Column(

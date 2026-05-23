@@ -42,7 +42,7 @@ import java.util.concurrent.TimeUnit
 fun PlantDetailsScreen(onPlantAdded: () -> Unit) {
     val context = LocalContext.current
     val prefs = remember { context.getSharedPreferences("my_prefs", Context.MODE_PRIVATE) }
-    val apiKey = stringResource(R.string.apikey)
+    val apiKey = stringResource(R.string.PlantAPIKey)
     val plantIdString = remember { prefs.getString("plantId", "") ?: "" }
     val plantId = plantIdString.toIntOrNull()
 

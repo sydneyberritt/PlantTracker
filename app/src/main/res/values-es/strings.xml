@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">PlantTracker</string>
-    <string name="apikey">sk-lk6b69c823c34860815902</string>
     
     <!-- Login Screen -->
     <string name="login_title">Rastreador de Plantas</string>
